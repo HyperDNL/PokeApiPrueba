@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "16271554283",
+    "project_id": "poke-auth-534ba",
+    "storage_bucket": "poke-auth-534ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16271554283:android:f49582b3da9e86a8a470ae",
+        "android_client_info": {
+          "package_name": "com.example.pokeprueba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG0qwApL98alMd3MGRmvcsoCt6SAZHYCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16271554283:android:aff55bec234477a8a470ae",
+        "android_client_info": {
+          "package_name": "com.example.pruebapoke"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG0qwApL98alMd3MGRmvcsoCt6SAZHYCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
